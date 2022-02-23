@@ -1,0 +1,21 @@
+1. Create a new project
+2. Create java class in src of project
+3. Write down methods in class
+4. Then go to file->project structure
+5. Select Artifacts tehn click on +
+6. Then click on jar and click on modules with dependencies
+7. Give the name and path for jar file
+8. Click OK
+9. From intellij click on build
+10. Then click on build artifacts then click build
+11. The jar file will be created in destination folder
+12. Go-to your main project
+13. Again go to project structure
+14. Click on libraries then click +
+15. Choose java from options
+16. Then select the jar file from destination
+17. Select module to which to you want library
+18. Click OK
+19. Create java program in your project
+20. import the library using "import"
+21. Create class and use functions.
